@@ -1,0 +1,28 @@
+name: mmeyerconsulting
+favicon: null
+layout_spectrum: 0.21766097354702652
+typography_spectrum: 0.17897522216662765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3856559284031391
+  lightness: 0.0439545838162303
+  saturation: 0.12023535487242043
+  rhythmicContrast: 0.8653915103059262
+purpose: []

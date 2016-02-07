@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mmeyerconsulting]]></title>
+        <description><![CDATA[mmeyerconsulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 04:25:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Avoiding and Cleaning Malware from your Computer]]></title>
+            <description><![CDATA[<article><h1>Avoiding and Cleaning Malware from your Computer</h1><p>When a window pops up that you are not certain about its origins, there are two ways to safely close it.  If it has a corresponding item on the Task Bar, you can right-click on that ‘bar’ and click on Close. If it does not show on the task bar, the best thing to do is save any work, and log off. Logging off will close any running programs, including whatever caused the pop up. Then, when you log back in, I would run a quick Ccleaner/Malwarebytes scan just to be safe. If you catch any changes it made before it really gets a hold of your system, it is much easier to take care of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7d0a18cb46d9607b98c54e301f6e954b0a9644b.png"></article>]]></description>
+            <link>undefinedavoiding-and-cleaning-malware-from-your-computer/index.html</link>
+            <guid isPermaLink="false">294b9557-40bc-4e5c-8573-ef638ccaac20</guid>
+            <pubDate>Sun, 07 Feb 2016 04:25:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
